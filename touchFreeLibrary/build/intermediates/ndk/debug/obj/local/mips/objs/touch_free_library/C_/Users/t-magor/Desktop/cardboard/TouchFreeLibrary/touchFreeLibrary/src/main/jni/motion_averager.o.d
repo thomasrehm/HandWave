@@ -4,8 +4,8 @@ C:\Users\t-magor\Desktop\cardboard\TouchFreeLibrary\touchFreeLibrary\build\inter
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/sys/cdefs.h \
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/sys/cdefs_elf.h \
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/android/api-level.h \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h \
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/assert.h \
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/stdlib.h \
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/string.h \
@@ -34,23 +34,23 @@ C:\Users\t-magor\Desktop\cardboard\TouchFreeLibrary\touchFreeLibrary\build\inter
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/machine/limits.h \
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/sys/syslimits.h \
  C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/asm/page.h \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp \
  C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
  C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/cmath \
  C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/cstddef \
  C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/complex \
  C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
  C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp \
  C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/limits \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/types_c.h \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/features2d/features2d.hpp \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/miniflann.hpp \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/defines.h \
- /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/config.h
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/imgproc/types_c.h \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/features2d/features2d.hpp \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/flann/miniflann.hpp \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/flann/defines.h \
+ /Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/flann/config.h
 
 C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/jni.h:
 
@@ -60,9 +60,9 @@ C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/i
 
 C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/android/api-level.h:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h:
 
 C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/assert.h:
 
@@ -120,7 +120,7 @@ C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/i
 
 C:/Users/t-magor/Documents/android-ndk-r10e/platforms/android-19/arch-mips/usr/include/asm/page.h:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp:
 
 C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
 
@@ -134,22 +134,22 @@ C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/in
 
 C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp:
 
 C:/Users/t-magor/Documents/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/limits:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/types_c.h:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/imgproc/types_c.h:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/features2d/features2d.hpp:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/features2d/features2d.hpp:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/miniflann.hpp:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/flann/miniflann.hpp:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/defines.h:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/flann/defines.h:
 
-/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/config.h:
+/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include/opencv2/flann/config.h:

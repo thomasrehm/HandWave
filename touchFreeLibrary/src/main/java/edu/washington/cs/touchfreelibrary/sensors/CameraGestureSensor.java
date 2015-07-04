@@ -152,7 +152,7 @@ public class CameraGestureSensor extends ClickSensor {
 		CameraInfo ci = new CameraInfo();
 		for (int i = 0 ; i < Camera.getNumberOfCameras(); i++) {
 	        Camera.getCameraInfo(i, ci);
-	        if (ci.facing == CameraInfo.CAMERA_FACING_FRONT) 
+	        if (ci.facing == CameraInfo.CAMERA_FACING_BACK)
 	        {
 	        	return i;
 	        }
@@ -162,7 +162,8 @@ public class CameraGestureSensor extends ClickSensor {
 	
 	private void setCameraSettings(int cameraId)
 	{
-		Camera mCam = Camera.open(cameraId);
+		//Camera mCam = Camera.open(cameraId);
+		Camera mCam = Camera.open();
 		Camera.Parameters params = mCam.getParameters();
 
 		params.set("iso", "400"); // values can be "auto", "100", "200", "400", "800", "1600"

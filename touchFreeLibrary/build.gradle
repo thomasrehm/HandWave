@@ -11,7 +11,7 @@ android {
         ndk {
             moduleName "touch_free_library"
             stl 'gnustl_static'
-            cFlags "-I/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include -llog -ldl"
+            cFlags "-I/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include -llog -ldl"
         }
     }
 
@@ -25,5 +25,5 @@ android {
 }
 
 dependencies {
-    compile project(':openCVLibrary249')
+    compile project(':openCVLibrary2411')
 }

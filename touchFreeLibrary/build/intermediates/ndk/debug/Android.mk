@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := touch_free_library
-LOCAL_CFLAGS := -I/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-2.4.9-android-sdk/sdk/native/jni/include -llog -ldl
+LOCAL_CFLAGS := -I/Users/t-magor/Desktop/cardboard/OpenCV/OpenCV-android-sdk/sdk/native/jni/include -llog -ldl
 LOCAL_SRC_FILES := \
 	C:\Users\t-magor\Desktop\cardboard\TouchFreeLibrary\touchFreeLibrary\src\main\jni\Android.mk \
 	C:\Users\t-magor\Desktop\cardboard\TouchFreeLibrary\touchFreeLibrary\src\main\jni\Application.mk \
