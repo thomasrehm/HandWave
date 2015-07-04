@@ -1,2 +1,2 @@
-include ':touchFreeLibrary'
 include ':openCVLibrary249'
+include ':touchFreeLibrary'
